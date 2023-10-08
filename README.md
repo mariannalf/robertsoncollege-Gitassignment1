@@ -1,4 +1,4 @@
-Assignment 1: Version Control with Git and GitHub
+Assignments 1 and 2: Version Control with Git and GitHub
 ======
 
 For more information on Git, see the
